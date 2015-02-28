@@ -1,0 +1,8 @@
+{
+  "modules": ["atom", "vagrant"],
+  "downloads": "/tmp/downloads/",
+  "repositories": {
+    "atom": "/tmp/repos/atom/",
+    "vagrant": "/tmp/repos/vagrant/"
+  }
+}

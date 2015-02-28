@@ -1,0 +1,3 @@
+./cmd/autodlrepo/autodlrepo
+./cmd/autodlrepo/config.json
+./cmd/autodlrepo/tmp/
